@@ -1,0 +1,19 @@
+section {
+    background-image: url("/imagem/code.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.center-nav{
+    text-align: center;
+    justify-content: space-between;
+
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
